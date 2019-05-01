@@ -1,4 +1,5 @@
 21556.zinester.com
+County.yahoogroups.com
 alelaz@em.ca
 announce-AcfPr.mysql.com
 announce-BdvIz.mysql.com
@@ -97,8 +98,10 @@ announce-zKNCL.mysql.com
 announce-zfLvce.mysql.com
 announce-zqdnG.mysql.com
 announce.mysql.com
+asetar@em.ca
 bait-20030203011154@em.ca
 bait-adorable@em.ca
+bait-baseline@em.ca
 bait-doubters@em.ca
 bait-effected@em.ca
 bait-maturely@em.ca
@@ -108,18 +111,22 @@ bait-precedes@em.ca
 bait-sneakily@em.ca
 bait@em.ca
 baptism.yahoo.com
+bch_tezmedia.com.gmail.com
 bob.smith@em.ca
 bob@em.ca
 bruce@bruce-guenter.dyndns.org
 bruce@em.ca
 bruceg@em.ca
 call-recruitment.msr-unitn.unitn.it
+casajienilor.ares.mxhost.ro
 caxworthy@em.ca
+cmsb-2007.inf.ed.ac.uk
 cr.reyda@em.ca
 cvs@bruce-guenter.dyndns.org
 dave.reyda@em.ca
 design@em.ca
 dnsmasq-discuss.lists.thekelleys.org.uk
+em-ca-bruceg@em.ca
 entrepreneurs@em.ca
 ext2-devel.lists.sourceforge.net
 group4_carlejones.com.carlejones.com
@@ -129,11 +136,13 @@ ipay@em.ca
 list-id: "funny stuff from http://foralaugh.com"
 list-id: 20060502105736
 list-id: 8
+list-id: cvs.enl.usc.edu
 lists-bikini@bruce-guenter.dyndns.org
 lorena@em.ca
 lv@em.ca
 mar@em.ca
 marco@em.ca
+memoriaforense.listserver3.plugin.com.br
 mill@em.ca
 mith.family@em.ca
 mp3encoder.minnie.tuhs.org
@@ -154,6 +163,7 @@ roundup-users.lists.sourceforge.net
 siobhan@em.ca
 songbird@em.ca
 staff@em.ca
+state.politics.kprfmaterial.subscribe.ru
 tam@em.ca
 ukfuckbuddys_sexpests.co.uk.sexpests.co.uk
 visions.server52.hkspace.net
