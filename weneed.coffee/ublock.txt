@@ -1,3 +1,4 @@
 ||free.propdfconverter.com^
 ||ping.chartbeat.net^
 @@$popup,domain=yts.lt
+www.google.com###swml
