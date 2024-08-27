@@ -1,0 +1,13 @@
+MJ12bot
+Amazonbot
+SemrushBot
+Applebot
+AhrefsBot
+Googlebot
+Bingbot
+Slurp
+DuckDuckBot
+YandexBot
+Sogou
+Exabot
+facebookexternalhit
